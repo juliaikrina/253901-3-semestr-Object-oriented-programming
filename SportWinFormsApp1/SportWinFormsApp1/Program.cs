@@ -1,3 +1,9 @@
+using Microsoft.Extensions.DependencyInjection;
+using SportWinFormsApp1.Data;
+using SportWinFormsApp1.Servises;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+
 namespace SportWinFormsApp1
 {
     internal static class Program
@@ -11,7 +17,22 @@ namespace SportWinFormsApp1
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            ApplicationConfiguration.Initialize();
+
+            var services = new ServiceCollection();
+
+            services.AddDbContext<WorkoutContext>(options =>
+                options.UseSqlite("Data Source=workouts.db"));
+
+            services.AddTransient<WorkoutService>();
+            services.AddTransient<FormMain>();
+
+            using var serviceProvider = services.BuildServiceProvider();
+
+            var form = serviceProvider.GetRequiredService<FormMain>();
+
+            Application.Run(form);
+
         }
     }
 }
