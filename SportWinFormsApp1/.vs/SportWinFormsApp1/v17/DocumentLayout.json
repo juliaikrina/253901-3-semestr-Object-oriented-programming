@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|c:\\gethab\\253901-3-semestr-object-oriented-programming\\sportwinformsapp1\\sportwinformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|solutionrelative:sportwinformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|c:\\gethab\\253901-3-semestr-object-oriented-programming\\sportwinformsapp1\\sportwinformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|solutionrelative:sportwinformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|c:\\gethab\\253901-3-semestr-object-oriented-programming\\sportwinformsapp1\\sportwinformsapp1\\modles\\activity\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|solutionrelative:sportwinformsapp1\\modles\\activity\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|c:\\gethab\\253901-3-semestr-object-oriented-programming\\sportwinformsapp1\\sportwinformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|solutionrelative:sportwinformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|c:\\gethab\\253901-3-semestr-object-oriented-programming\\sportwinformsapp1\\sportwinformsapp1\\modles\\activity\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|solutionrelative:sportwinformsapp1\\modles\\activity\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|c:\\gethab\\253901-3-semestr-object-oriented-programming\\sportwinformsapp1\\sportwinformsapp1\\modles\\activity\\windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|solutionrelative:sportwinformsapp1\\modles\\activity\\windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|c:\\gethab\\253901-3-semestr-object-oriented-programming\\sportwinformsapp1\\sportwinformsapp1\\modles\\activity\\devicelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|solutionrelative:sportwinformsapp1\\modles\\activity\\devicelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|c:\\gethab\\253901-3-semestr-object-oriented-programming\\sportwinformsapp1\\sportwinformsapp1\\modles\\activity\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CBDA1C-0564-433F-BF18-8CBE501A3F52}|SportWinFormsApp1\\SportWinFormsApp1.csproj|solutionrelative:sportwinformsapp1\\modles\\activity\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Windows.cs",
+              "DocumentMoniker": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\Windows.cs",
+              "RelativeDocumentMoniker": "SportWinFormsApp1\\modles\\Activity\\Windows.cs",
+              "ToolTip": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\Windows.cs",
+              "RelativeToolTip": "SportWinFormsApp1\\modles\\Activity\\Windows.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T18:03:11.83Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SportWinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "SportWinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T19:16:38.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActivityModel.cs",
+              "DocumentMoniker": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\ActivityModel.cs",
+              "RelativeDocumentMoniker": "SportWinFormsApp1\\modles\\Activity\\ActivityModel.cs",
+              "ToolTip": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\ActivityModel.cs",
+              "RelativeToolTip": "SportWinFormsApp1\\modles\\Activity\\ActivityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T17:54:48.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeviceLog.cs",
+              "DocumentMoniker": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\DeviceLog.cs",
+              "RelativeDocumentMoniker": "SportWinFormsApp1\\modles\\Activity\\DeviceLog.cs",
+              "ToolTip": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\DeviceLog.cs",
+              "RelativeToolTip": "SportWinFormsApp1\\modles\\Activity\\DeviceLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T18:22:29.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\Window.cs",
+              "RelativeDocumentMoniker": "SportWinFormsApp1\\modles\\Activity\\Window.cs",
+              "ToolTip": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\Window.cs",
+              "RelativeToolTip": "SportWinFormsApp1\\modles\\Activity\\Window.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T18:04:45.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "SportWinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "SportWinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAawEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T17:30:12.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HR.cs",
+              "DocumentMoniker": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\HR.cs",
+              "RelativeDocumentMoniker": "SportWinFormsApp1\\modles\\Activity\\HR.cs",
+              "ToolTip": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\modles\\Activity\\HR.cs",
+              "RelativeToolTip": "SportWinFormsApp1\\modles\\Activity\\HR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T18:09:01.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "SportWinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\GetHab\\253901-3-semestr-Object-oriented-programming\\SportWinFormsApp1\\SportWinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SportWinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T17:16:46.966Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

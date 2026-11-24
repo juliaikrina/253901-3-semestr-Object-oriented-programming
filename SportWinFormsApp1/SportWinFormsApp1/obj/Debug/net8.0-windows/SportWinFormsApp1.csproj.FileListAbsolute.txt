@@ -1,0 +1,16 @@
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\bin\Debug\net8.0-windows\SportWinFormsApp1.exe
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\bin\Debug\net8.0-windows\SportWinFormsApp1.deps.json
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\bin\Debug\net8.0-windows\SportWinFormsApp1.runtimeconfig.json
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\bin\Debug\net8.0-windows\SportWinFormsApp1.dll
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\bin\Debug\net8.0-windows\SportWinFormsApp1.pdb
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\SportWinFormsApp1.Form1.resources
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\SportWinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\SportWinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\SportWinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\SportWinFormsApp1.AssemblyInfo.cs
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\SportWinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\SportWinFormsApp1.dll
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\refint\SportWinFormsApp1.dll
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\SportWinFormsApp1.pdb
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\SportWinFormsApp1.genruntimeconfig.cache
+C:\Users\ЮЛЯ\Desktop\3 семестр\SportWinFormsApp1\SportWinFormsApp1\obj\Debug\net8.0-windows\ref\SportWinFormsApp1.dll
